@@ -1,4 +1,3 @@
-package com.company;
 // Class ArrayList<E> can be used to store a list of values of type E.
 import java.util.*;
 
